@@ -1,0 +1,3 @@
+Query query query! 
+
+I am more of a fan of JSON/NoSQL based databases these days... 
