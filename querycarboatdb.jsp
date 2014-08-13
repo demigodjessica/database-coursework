@@ -26,7 +26,7 @@
 	}	
 %>
 
-<center> <h1> Jessica Ju </h1>  <h3> EECS118</br> Project 1 </br> 46483660 </br> </h3> </center>
+<center> <h1> Jessica Ju </h1>  <h3> EECS118</br> Project 1 </br> ID # </br> </h3> </center>
 
 <center>
 <b> Enter your query i.e "buy car which is new", "rent boat"</b>
